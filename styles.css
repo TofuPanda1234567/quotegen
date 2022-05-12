@@ -8,10 +8,10 @@ body {
 
 .quotebox {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 400px;
     margin-top: 50px;
-    left: 50%;
+    left: 40%;
     text-align: center;
     border: 2px solid black;
     background: white;
@@ -20,16 +20,18 @@ body {
 
 .quote{
     margin-top: 25%;
-    font-size: 25px;
+    font-size: 45px;
 }
 
 .button {
     position: absolute;
-    width: 50px;
-    height: 15px;
+    margin-top: 75%;
+    width: 150px;
+    height: 30px;
     padding: 15px;
-    left: 50%;
+    left: 40%;
     text-align: center;
     background: white;
     text-decoration: none;
+    font-weight: bold;
 }
