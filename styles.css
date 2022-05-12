@@ -8,11 +8,11 @@ body {
 
 .quotebox {
     position: absolute;
-    width: 70%;
-    height: 50%;
-    top: 25%;
+    width: 700px;
+    height: 500px;
+    top: 10%;
     left: 50%;
-    margin: auto;
+    margin-left: -350px;
     text-align: center;
     border: 2px solid black;
     background: white;
@@ -35,5 +35,6 @@ body {
     text-decoration: none;
     font-weight: bold;
     left: 50%;
-    margin-right: -75px;
+    margin-left: -75px;
+    margin-top: 10%;
 }
