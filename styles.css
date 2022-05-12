@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+html,
+body {
+    font-family: 'Bebas Neue', 'Times New Roman';
+    background-image: linear-gradient(to bottom right, blue, indigo, violet);
+}
+
+.quotebox {
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    left: 50%;
+    text-align: center;
+    border: 2px solid black;
+    background: white;
+    border-radius: 10px;
+}
+
+.button {
+    padding: 15px;
+    left: 50%;
+    text-align: center;
+    background: white;
+    text-decoration: none;
+}
