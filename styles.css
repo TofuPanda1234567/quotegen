@@ -2,10 +2,10 @@
 
 html,
 body {
+    width: 100%;
+    height: 100%;
     font-family: 'Bebas Neue', 'Times New Roman';
     background-image: linear-gradient(to bottom right, blue, indigo, violet);
-    width: fill;
-    height: fill;
 }
 
 .quotebox {
@@ -31,7 +31,7 @@ body {
 .button {
     position: absolute;
     width: 150px;
-    height: 30px;
+    height: 40px;
     text-align: center;
     background: white;
     text-decoration: none;
