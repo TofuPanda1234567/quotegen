@@ -4,15 +4,17 @@ html,
 body {
     font-family: 'Bebas Neue', 'Times New Roman';
     background-image: linear-gradient(to bottom right, blue, indigo, violet);
+    width: fill;
+    height: fill;
 }
 
 .quotebox {
     position: absolute;
-    width: 700px;
-    height: 500px;
-    top: 10%;
+    width: 900px;
+    height: 400px;
+    top: 5%;
     left: 50%;
-    margin-left: -350px;
+    margin-left: -450px;
     text-align: center;
     border: 2px solid black;
     background: white;
@@ -36,5 +38,5 @@ body {
     font-weight: bold;
     left: 50%;
     margin-left: -75px;
-    margin-top: 10%;
+    margin-top: 40%;
 }
